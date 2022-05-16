@@ -1,0 +1,19 @@
+{
+  "name": "imdb2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaudiaD1ez/IMDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClaudiaD1ez/IMDB/issues"
+  },
+  "homepage": "https://github.com/ClaudiaD1ez/IMDB#readme"
+}
