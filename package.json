@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/ClaudiaD1ez/IMDB/issues"
   },
-  "homepage": "https://github.com/ClaudiaD1ez/IMDB#readme"
+  "homepage": "https://github.com/ClaudiaD1ez/IMDB#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.34"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
